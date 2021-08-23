@@ -4,15 +4,17 @@
 
 ***
 
-### Please help spread awareness and please contribute to CFS/ME research if you can. 
-
-### Thank you.
-
 ### https://millionsmissing.meaction.net/
 
 ### https://www.me-international.org/
 
 ### https://me-pedia.org/wiki/Welcome_to_MEpedia
+
+***
+
+### Please help spread awareness and please contribute to CFS/ME research if you can. 
+
+### Thank you.
 
 ***
 
