@@ -1,5 +1,9 @@
 # CFS/ME Testimony 2020
 
+<img width="512" src="https://github.com/asigalov61/CFS-ME-Testimony-2020/raw/main/Artwork/%23MILLIONS%20MISSING.jpg">
+
+***
+
 ## GPT2-774M model, fine-tuned on all public information and papers (up to 2021) related to Chronic Fatigue Syndrome/Myalgic Encephalomyelitis
 
 [![Open In Colab][colab-badge]][colab-notebook]
@@ -21,4 +25,4 @@
 
 ***
 
-#### Tegridy Code 2021
+### Tegridy Code 2021
